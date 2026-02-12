@@ -1,0 +1,27 @@
+{                                 
+    "adminLogin": {          
+        "username": "Admin",
+        "password": "admin123",
+        "EmptyUsername": "",
+        "EmptyPassword": "",
+        "InvalidUsername": "test",
+        "InvalidPassword": "test"
+    },
+    "createLoginDetails": {
+        "firstName": "QAFirstName",
+        "lastName": "QALastName",
+        "username": "QAEngineer",
+        "password": "test123"
+    },
+    "DOB": {
+        "day": 15,
+        "month": "March",
+        "year": 1995
+    },
+    "employeeImage": "./data/employeePhoto.png",
+    "project": {
+        "projectName": "TestProject",
+        "customerName": "TestCustomer",
+        "activityName": "TestActivity"
+    }
+}
